@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingprocess",
+        "uuid": 2986632,
+        "checksum": "mwttf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
